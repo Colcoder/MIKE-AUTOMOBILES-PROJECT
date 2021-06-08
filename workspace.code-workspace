@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\BOOTSTRAP"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RESPONSIVE GARAGE WEB PROJECT"
+	}
+}
