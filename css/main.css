@@ -85,15 +85,17 @@
 
   .founder-section{
     display: flex;
+    text-align: center;
+    justify-content: center;
   }
 
   #spanners-image{
-    width: 60%;
+    width: 50%;
     height: auto;
   }
 
   #founder{
-    width: 40%;
+    width: 50%;
     height: auto;
   }
 
@@ -185,4 +187,12 @@
         color: white;
       }
 }
+
+@media only screen and (max-width: 768px){
+  .founder-section{
+    display: none;
+  }
+}
+
+
     
